@@ -8,6 +8,6 @@ baseline: spec
 		spec
 				preLoadDoIt: #preload:package:;
 				postLoadDoIt: #postload:package:.
-				spec package: 'ChronosManager'	
+				spec package: 'Orpheas'	
 					
 					]
